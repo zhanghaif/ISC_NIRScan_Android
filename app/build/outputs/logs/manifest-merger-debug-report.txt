@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\691fdd6d036931a96a18171d5525d3d0\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:MPChartLib] E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\625e70aaced8b8251e33b139e75169af\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\4eb6b99458fea95d910d17a15c3ec111\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c57dd91db7a7d3d3d970986ee1845891\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d31c4d4cf2821c2ee1acb3998686b9a6\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\971e0c9cfdb9d8c57ec63432560afadb\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\fe1f7c0f66ec8a0dfbd33ef7850999b5\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\638343d04060e3ee2e910379c3a849de\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\e3f512083464344cf7ea0a1675ac9128\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\3c0c5a915bdd61dc5b6e54fa3a5fdc44\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\cc0217d9660870fd28d8c883e8e2809d\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c076764ab83a68400b83fac1919e3630\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\ee7af6ad22eea36b7ca7bb2e7d04b194\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\17b5e52aaf0af15519340244c5996d3b\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\323f4c96dac0f98bfa5b49ae8eb2e12f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\6d99af6f1559a4a7c9aa691cb5a268e3\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\9dce98a4e949d34b4c3b7654e45ae6f0\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\83dc529cd0980bf42b463395828f15ed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\2df2a7829833ac0f1b63e3e28b6e3051\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d21f6dbe925b0d07923e4d8a9c430aa8\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\74dc9c726ae0fa4a6d5edaf4205c891c\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b9a57a6f3a9f67d918ffd6ed8eb31d27\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\56049e7467ff79c3dfa9d82de6bb016f\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\eb1961dd4874226197bd27c09b5b8a35\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:1-90:12
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:6:5-68
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:11:5-68
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:7:5-74
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:12:5-74
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.INTERNET
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:12:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:5-89
+	android:required
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:64-87
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:19-63
+application
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:15:5-88:19
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:14:5-19:19
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:14:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\17b5e52aaf0af15519340244c5996d3b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\17b5e52aaf0af15519340244c5996d3b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:20:9-40
+	tools:replace
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:16:9-36
+activity#com.Innospectra.NanoScan.HomeViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:22:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.Innospectra.NanoScan.InformationViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:31:9-35:47
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:33:13-56
+	android:theme
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:35:13-44
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:32:13-76
+activity#com.Innospectra.NanoScan.SettingsViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:36:9-40:47
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:38:13-60
+	android:theme
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:37:13-73
+activity#com.Innospectra.NanoScan.ScanViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:42:9-45:55
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:43:13-69
+activity#com.Innospectra.NanoScan.ConfigureViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:47:13-74
+activity#com.Innospectra.NanoScan.DeviceInfoViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:50:13-75
+activity#com.Innospectra.NanoScan.DeviceStatusViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:53:13-77
+activity#com.Innospectra.NanoScan.ScanConfigurationsViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:56:13-83
+activity#com.Innospectra.NanoScan.SelectDeviceViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:59:9-60:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:59:19-83
+activity#com.Innospectra.NanoScan.AddScanConfigViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:62:9-65:55
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:65:13-52
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:63:13-78
+activity#com.Innospectra.NanoScan.ActiveConfigDetailViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:68:13-59
+activity#com.Innospectra.NanoScan.LicenseViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:70:9-74:47
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:72:13-44
+	android:theme
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:71:13-72
+activity#com.Innospectra.NanoScan.ActivationViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:76:13-75
+activity#com.Innospectra.NanoScan.AdvanceDeviceStatusViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:80:13-84
+activity#com.Innospectra.NanoScan.ErrorStatusViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:83:13-76
+activity#com.Innospectra.NanoScan.AdvanceErrorStatusViewActivity
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:86:13-83
+uses-sdk
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\691fdd6d036931a96a18171d5525d3d0\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\691fdd6d036931a96a18171d5525d3d0\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:MPChartLib] E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
+MERGED from [:MPChartLib] E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\625e70aaced8b8251e33b139e75169af\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\625e70aaced8b8251e33b139e75169af\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\4eb6b99458fea95d910d17a15c3ec111\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\4eb6b99458fea95d910d17a15c3ec111\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c57dd91db7a7d3d3d970986ee1845891\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c57dd91db7a7d3d3d970986ee1845891\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d31c4d4cf2821c2ee1acb3998686b9a6\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d31c4d4cf2821c2ee1acb3998686b9a6\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\971e0c9cfdb9d8c57ec63432560afadb\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\971e0c9cfdb9d8c57ec63432560afadb\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\fe1f7c0f66ec8a0dfbd33ef7850999b5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\fe1f7c0f66ec8a0dfbd33ef7850999b5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\638343d04060e3ee2e910379c3a849de\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\638343d04060e3ee2e910379c3a849de\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\e3f512083464344cf7ea0a1675ac9128\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\e3f512083464344cf7ea0a1675ac9128\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\3c0c5a915bdd61dc5b6e54fa3a5fdc44\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\3c0c5a915bdd61dc5b6e54fa3a5fdc44\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\cc0217d9660870fd28d8c883e8e2809d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\cc0217d9660870fd28d8c883e8e2809d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c076764ab83a68400b83fac1919e3630\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\c076764ab83a68400b83fac1919e3630\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\ee7af6ad22eea36b7ca7bb2e7d04b194\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\ee7af6ad22eea36b7ca7bb2e7d04b194\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\17b5e52aaf0af15519340244c5996d3b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\17b5e52aaf0af15519340244c5996d3b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\323f4c96dac0f98bfa5b49ae8eb2e12f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\323f4c96dac0f98bfa5b49ae8eb2e12f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\6d99af6f1559a4a7c9aa691cb5a268e3\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\6d99af6f1559a4a7c9aa691cb5a268e3\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\9dce98a4e949d34b4c3b7654e45ae6f0\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\9dce98a4e949d34b4c3b7654e45ae6f0\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\83dc529cd0980bf42b463395828f15ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\83dc529cd0980bf42b463395828f15ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\2df2a7829833ac0f1b63e3e28b6e3051\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\2df2a7829833ac0f1b63e3e28b6e3051\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d21f6dbe925b0d07923e4d8a9c430aa8\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d21f6dbe925b0d07923e4d8a9c430aa8\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\74dc9c726ae0fa4a6d5edaf4205c891c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\74dc9c726ae0fa4a6d5edaf4205c891c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b9a57a6f3a9f67d918ffd6ed8eb31d27\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b9a57a6f3a9f67d918ffd6ed8eb31d27\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\56049e7467ff79c3dfa9d82de6bb016f\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\56049e7467ff79c3dfa9d82de6bb016f\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\eb1961dd4874226197bd27c09b5b8a35\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\eb1961dd4874226197bd27c09b5b8a35\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+service#com.ISCSDK.ISCNIRScanSDK
+ADDED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:15:9-18:39
+	android:enabled
+		ADDED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:16:13-52

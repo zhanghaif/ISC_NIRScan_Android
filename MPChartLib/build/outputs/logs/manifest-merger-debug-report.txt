@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:11-49
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+	android:versionCode
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml:2:1-13:12
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		ADDED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml
+		INJECTED from E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\MPChartLib\src\main\AndroidManifest.xml

@@ -1,0 +1,194 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Innospectra.ISCScanNano"
+4    android:versionCode="3"
+5    android:versionName="2.13" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:6:5-68
+11-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:7:5-74
+12-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:7:22-71
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:8:5-67
+13-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:9:5-81
+14-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:10:5-80
+15-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:11:5-81
+16-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:12:5-79
+17-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:12:22-76
+18
+19    <uses-feature
+19-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:5-89
+20        android:name="android.hardware.bluetooth_le"
+20-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:19-63
+21        android:required="true" />
+21-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:13:64-87
+22
+23    <application
+23-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:15:5-88:19
+24        android:allowBackup="true"
+24-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:17:9-35
+25        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+25-->[com.android.support:support-compat:28.0.0] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\d6510c8455f53f6ba446bdbcb76f01a4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+26        android:debuggable="true"
+27        android:icon="@mipmap/icon_isc_logo"
+27-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:18:9-45
+28        android:label="@string/app_name"
+28-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:19:9-41
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:20:9-40
+31        <activity
+31-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:21:9-30:20
+32            android:name="com.Innospectra.NanoScan.HomeViewActivity"
+32-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:22:13-69
+33            android:label="@string/app_name"
+33-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:23:13-45
+34            android:screenOrientation="portrait" >
+34-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:24:13-49
+35            <intent-filter>
+35-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:25:13-29:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:26:17-69
+36-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:26:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:28:17-77
+38-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:28:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:31:9-35:47
+42            android:name="com.Innospectra.NanoScan.InformationViewActivity"
+42-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:32:13-76
+43            android:label="@string/title_activity_info"
+43-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:33:13-56
+44            android:screenOrientation="portrait"
+44-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:34:13-49
+45            android:theme="@style/AppTheme" />
+45-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:35:13-44
+46        <activity
+46-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:36:9-40:47
+47            android:name="com.Innospectra.NanoScan.SettingsViewActivity"
+47-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:37:13-73
+48            android:label="@string/title_activity_settings"
+48-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:38:13-60
+49            android:screenOrientation="portrait"
+49-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:39:13-49
+50            android:theme="@style/AppTheme" />
+50-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:40:13-44
+51        <activity
+51-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:42:9-45:55
+52            android:name="com.Innospectra.NanoScan.ScanViewActivity"
+52-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:43:13-69
+53            android:screenOrientation="portrait"
+53-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:44:13-49
+54            android:windowSoftInputMode="adjustPan" />
+54-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:45:13-52
+55        <activity
+55-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:46:9-48:52
+56            android:name="com.Innospectra.NanoScan.ConfigureViewActivity"
+56-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:47:13-74
+57            android:screenOrientation="portrait" />
+57-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:48:13-49
+58        <activity
+58-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:49:9-51:52
+59            android:name="com.Innospectra.NanoScan.DeviceInfoViewActivity"
+59-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:50:13-75
+60            android:screenOrientation="portrait" />
+60-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:51:13-49
+61        <activity
+61-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:52:9-54:52
+62            android:name="com.Innospectra.NanoScan.DeviceStatusViewActivity"
+62-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:53:13-77
+63            android:screenOrientation="portrait" />
+63-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:54:13-49
+64        <activity
+64-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:55:9-57:52
+65            android:name="com.Innospectra.NanoScan.ScanConfigurationsViewActivity"
+65-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:56:13-83
+66            android:screenOrientation="portrait" />
+66-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:57:13-49
+67        <activity
+67-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:59:9-60:52
+68            android:name="com.Innospectra.NanoScan.SelectDeviceViewActivity"
+68-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:59:19-83
+69            android:screenOrientation="portrait" />
+69-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:60:13-49
+70        <activity
+70-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:62:9-65:55
+71            android:name="com.Innospectra.NanoScan.AddScanConfigViewActivity"
+71-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:63:13-78
+72            android:screenOrientation="portrait"
+72-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:64:13-49
+73            android:windowSoftInputMode="adjustPan" />
+73-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:65:13-52
+74        <activity
+74-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:67:9-69:52
+75            android:name="com.Innospectra.NanoScan.ActiveConfigDetailViewActivity"
+75-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:68:13-59
+76            android:screenOrientation="portrait" />
+76-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:69:13-49
+77        <activity
+77-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:70:9-74:47
+78            android:name="com.Innospectra.NanoScan.LicenseViewActivity"
+78-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:71:13-72
+79            android:label="@string/license"
+79-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:72:13-44
+80            android:screenOrientation="portrait"
+80-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:73:13-49
+81            android:theme="@style/AppTheme" />
+81-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:74:13-44
+82        <activity
+82-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:75:9-78:52
+83            android:name="com.Innospectra.NanoScan.ActivationViewActivity"
+83-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:76:13-75
+84            android:label="@string/activation"
+84-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:77:13-47
+85            android:screenOrientation="portrait" />
+85-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:78:13-49
+86        <activity
+86-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:79:9-81:52
+87            android:name="com.Innospectra.NanoScan.AdvanceDeviceStatusViewActivity"
+87-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:80:13-84
+88            android:screenOrientation="portrait" />
+88-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:81:13-49
+89        <activity
+89-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:82:9-84:52
+90            android:name="com.Innospectra.NanoScan.ErrorStatusViewActivity"
+90-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:83:13-76
+91            android:screenOrientation="portrait" />
+91-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:84:13-49
+92        <activity
+92-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:85:9-87:52
+93            android:name="com.Innospectra.NanoScan.AdvanceErrorStatusViewActivity"
+93-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:86:13-83
+94            android:screenOrientation="portrait" />
+94-->E:\zhanghaifeng\20.ANDROIDWORK\SDK for Android\ISC_NIRScan_Android-master\app\src\main\AndroidManifest.xml:87:13-49
+95
+96        <service
+96-->[:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:15:9-18:39
+97            android:name="com.ISCSDK.ISCNIRScanSDK"
+97-->[:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:16:13-52
+98            android:enabled="true"
+98-->[:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:17:13-35
+99            android:exported="true" />
+99-->[:ISCSDK-release:] C:\Users\HFGA\.gradle\caches\transforms-2\files-2.1\b4df9c80e7944681a2449ec2156fdd06\ISCSDK-release\AndroidManifest.xml:18:13-36
+100    </application>
+101
+102</manifest>
